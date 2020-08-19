@@ -1,0 +1,34 @@
+Ethical Considerations
+Ethical Considerations
+Some guy on GitHub once contacted me and told me this:“Likes and engagement are digital currency and you are devaluing them.”This really stuck with me and made me question the tool I've built for exactly that purpose.
+
+The fact that these interactions and the engagement can be easily automated and “faked” more and more leads to a distorted and broken social media system.People who produce valuable and good content are invisible to other users and advertisement companies if they don’t use bots and other engagement systems.
+
+A friend of mine came up with the following association with Dante’s “Nine Circles of Hell” where with each step closer to becoming a social influencer you get less and less aware of how broken this whole system actually is. I want to share this with you here since I think it's an extremely accurate representation of what I witnessed while actively working with Influencers with InstaPy.
+
+Level 1: Limbo - If you don’t bot at all
+
+Level 2: Flirtation - When you manually like and follow as many people as you can in order to get them to follow you back / like your posts
+
+Level 3: Conspiracy - when you join a Telegram group to like and comment on 10 photos so the next 10 people will like and comment on your photo
+
+Level 4: Infidelity - When you use a low-cost Virtual Assistant to like and follow on your behalf
+
+Level 5: Lust - When you use a bot to give likes, but don’t receive any likes back in return, but you don’t pay for it e.g. Chrome Extension
+
+Level 6: Promiscuity - When you use a bot to Give 50+ likes to Get 50+ likes, but you don’t pay for it, e.g. Chrome Extension
+
+Level 7: Avarice or Extreme Greed - When you use a bot to Like / Follow / Comment between 200–700 photos ignoring the chance of getting banned
+
+Level 8: Prostitution - When you pay an unknown 3rd party service to engage in automated reciprocal like / follow for you, but they use your account to like / follow back.
+
+Level 9: Fraud / Heresy - When you buy followers and likes and try to sell yourself to brands as an influencer
+
+The level of botting on social media is so prevalent that if you don’t bot, you will be stuck in Level 1, Limbo, with no follower growth and low engagement relative to your peers.
+
+In economic theory, this is known as a prisoner's dilemma and zero-sum game. If I don’t bot and you bot, you win. If you don’t bot and I bot, I win. If no one bots, everyone wins. But since there is no incentive for everyone not to bot, everyone bots, so no one wins.
+
+Be aware of this and never forget the implications this whole tooling has on social media.
+
+Spectrum of Bot Intent
+
